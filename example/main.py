@@ -1,1 +1,2 @@
-print("amal noob")
+n = 5
+print(a+n)
